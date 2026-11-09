@@ -7,11 +7,15 @@ University of South-Eastern Norway (USN) · NILU
 
 Presented at **ICT-DM 2026** (online, 9 November 2026).
 
+> **Copyright notice:** © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+>
+> The PDF in this repository is the **accepted version** of the paper. The final published version will be available on IEEE Xplore (link and DOI will be added here once published).
+
 ## Contents
 
 | Path | Description |
 |---|---|
-| [`paper/ICT-DM2026_Explainable_Wildfire_Classification_Paper.pdf`](paper/ICT-DM2026_Explainable_Wildfire_Classification_Paper.pdf) | Camera-ready paper |
+| [`paper/ICT-DM2026_Explainable_Wildfire_Classification_Paper.pdf`](paper/ICT-DM2026_Explainable_Wildfire_Classification_Paper.pdf) | Accepted version of the paper (IEEE copyright notice on page 1) |
 | [`presentation/ICT-DM2026_Wildfire_Presentation.pptx`](presentation/ICT-DM2026_Wildfire_Presentation.pptx) | Conference presentation slides |
 | [`Forest_Wildfire_Detection_CNN_final.ipynb`](Forest_Wildfire_Detection_CNN_final.ipynb) | Notebook with the full pipeline (preprocessing, training, evaluation, saliency maps) |
 
