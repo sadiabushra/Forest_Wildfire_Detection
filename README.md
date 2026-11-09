@@ -28,7 +28,18 @@ The study also includes an augmentation ablation and gradient-based saliency map
 
 ## Dataset
 
-Kaggle "Forest Fire Images" by M. S. Prasad.
+**Source:** [Forest Fire Images](https://www.kaggle.com/datasets/mohnishsaiprasad/forest-fire-images) on Kaggle, published by Mohnish Sai Prasad (accessed 5 March 2026).
+
+- 2 classes: **Fire** and **Non-Fire**
+- 5,000 training images (2,500 per class) and a separate test set of 50 images (25 per class), as provided by the publisher
+- Images from diverse real-world settings: dense forests, open vegetation and woodland near urban areas, with varied fire intensity, smoke, lighting and weather
+- 389 corrupted (undecodable) files removed → **4,611** clean training images (2,112 Fire, 2,499 Non-Fire), split 80/20 stratified into 3,689 train / 922 validation
+
+The dataset is not included in this repository. Download it from Kaggle and follow the dataset's licence terms.
+
+Citation:
+
+> Prasad, M.S.: Forest Fire Images. Kaggle (accessed: 5 March 2026). https://www.kaggle.com/datasets/mohnishsaiprasad/forest-fire-images
 
 ## Contact
 
