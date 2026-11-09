@@ -28,7 +28,7 @@ The study also includes an augmentation ablation and gradient-based saliency map
 
 ## Dataset
 
-Kaggle [Forest Fire Images](https://www.kaggle.com/) by M. S. Prasad.
+Kaggle "Forest Fire Images" by M. S. Prasad.
 
 ## Contact
 
